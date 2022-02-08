@@ -43,7 +43,7 @@ namespace Lab1
             this.Information.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.Information.Font = new System.Drawing.Font("MV Boli", 16.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Information.ForeColor = System.Drawing.Color.MediumOrchid;
-            this.Information.Location = new System.Drawing.Point(449, 91);
+            this.Information.Location = new System.Drawing.Point(449, 84);
             this.Information.Name = "Information";
             this.Information.Size = new System.Drawing.Size(188, 77);
             this.Information.TabIndex = 1;

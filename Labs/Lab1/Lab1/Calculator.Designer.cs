@@ -83,7 +83,7 @@ namespace Lab1
             this.plus.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.plus.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.plus.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.plus.Location = new System.Drawing.Point(237, 319);
+            this.plus.Location = new System.Drawing.Point(233, 326);
             this.plus.Name = "plus";
             this.plus.Size = new System.Drawing.Size(54, 55);
             this.plus.TabIndex = 51;
@@ -97,7 +97,7 @@ namespace Lab1
             this.result.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.result.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.result.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.result.Location = new System.Drawing.Point(237, 380);
+            this.result.Location = new System.Drawing.Point(233, 387);
             this.result.Name = "result";
             this.result.Size = new System.Drawing.Size(54, 55);
             this.result.TabIndex = 50;
@@ -111,7 +111,7 @@ namespace Lab1
             this.N0.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.N0.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.N0.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.N0.Location = new System.Drawing.Point(117, 380);
+            this.N0.Location = new System.Drawing.Point(113, 387);
             this.N0.Name = "N0";
             this.N0.Size = new System.Drawing.Size(54, 55);
             this.N0.TabIndex = 49;
@@ -125,7 +125,7 @@ namespace Lab1
             this.minus.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.minus.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.minus.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.minus.Location = new System.Drawing.Point(237, 258);
+            this.minus.Location = new System.Drawing.Point(233, 265);
             this.minus.Name = "minus";
             this.minus.Size = new System.Drawing.Size(54, 55);
             this.minus.TabIndex = 46;
@@ -139,7 +139,7 @@ namespace Lab1
             this.N3.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.N3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.N3.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.N3.Location = new System.Drawing.Point(177, 319);
+            this.N3.Location = new System.Drawing.Point(173, 326);
             this.N3.Name = "N3";
             this.N3.Size = new System.Drawing.Size(54, 55);
             this.N3.TabIndex = 45;
@@ -153,7 +153,7 @@ namespace Lab1
             this.N2.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.N2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.N2.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.N2.Location = new System.Drawing.Point(117, 319);
+            this.N2.Location = new System.Drawing.Point(113, 326);
             this.N2.Name = "N2";
             this.N2.Size = new System.Drawing.Size(54, 55);
             this.N2.TabIndex = 44;
@@ -167,7 +167,7 @@ namespace Lab1
             this.N1.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.N1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.N1.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.N1.Location = new System.Drawing.Point(57, 319);
+            this.N1.Location = new System.Drawing.Point(53, 326);
             this.N1.Name = "N1";
             this.N1.Size = new System.Drawing.Size(54, 55);
             this.N1.TabIndex = 43;
@@ -181,7 +181,7 @@ namespace Lab1
             this.multiply.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.multiply.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.multiply.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.multiply.Location = new System.Drawing.Point(237, 197);
+            this.multiply.Location = new System.Drawing.Point(233, 204);
             this.multiply.Name = "multiply";
             this.multiply.Size = new System.Drawing.Size(54, 55);
             this.multiply.TabIndex = 41;
@@ -195,7 +195,7 @@ namespace Lab1
             this.N6.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.N6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.N6.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.N6.Location = new System.Drawing.Point(177, 258);
+            this.N6.Location = new System.Drawing.Point(173, 265);
             this.N6.Name = "N6";
             this.N6.Size = new System.Drawing.Size(54, 55);
             this.N6.TabIndex = 40;
@@ -209,7 +209,7 @@ namespace Lab1
             this.N5.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.N5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.N5.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.N5.Location = new System.Drawing.Point(117, 258);
+            this.N5.Location = new System.Drawing.Point(113, 265);
             this.N5.Name = "N5";
             this.N5.Size = new System.Drawing.Size(54, 55);
             this.N5.TabIndex = 39;
@@ -223,7 +223,7 @@ namespace Lab1
             this.N4.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.N4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.N4.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.N4.Location = new System.Drawing.Point(57, 258);
+            this.N4.Location = new System.Drawing.Point(53, 265);
             this.N4.Name = "N4";
             this.N4.Size = new System.Drawing.Size(54, 55);
             this.N4.TabIndex = 38;
@@ -237,7 +237,7 @@ namespace Lab1
             this.divide.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.divide.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.divide.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.divide.Location = new System.Drawing.Point(237, 136);
+            this.divide.Location = new System.Drawing.Point(233, 143);
             this.divide.Name = "divide";
             this.divide.Size = new System.Drawing.Size(54, 55);
             this.divide.TabIndex = 36;
@@ -251,7 +251,7 @@ namespace Lab1
             this.N9.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.N9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.N9.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.N9.Location = new System.Drawing.Point(177, 197);
+            this.N9.Location = new System.Drawing.Point(173, 204);
             this.N9.Name = "N9";
             this.N9.Size = new System.Drawing.Size(54, 55);
             this.N9.TabIndex = 35;
@@ -265,7 +265,7 @@ namespace Lab1
             this.N8.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.N8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.N8.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.N8.Location = new System.Drawing.Point(117, 197);
+            this.N8.Location = new System.Drawing.Point(113, 204);
             this.N8.Name = "N8";
             this.N8.Size = new System.Drawing.Size(54, 55);
             this.N8.TabIndex = 34;
@@ -279,7 +279,7 @@ namespace Lab1
             this.N7.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.N7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.N7.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.N7.Location = new System.Drawing.Point(57, 197);
+            this.N7.Location = new System.Drawing.Point(53, 204);
             this.N7.Name = "N7";
             this.N7.Size = new System.Drawing.Size(54, 55);
             this.N7.TabIndex = 33;
@@ -293,7 +293,7 @@ namespace Lab1
             this.delete.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.delete.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.delete.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.delete.Location = new System.Drawing.Point(117, 136);
+            this.delete.Location = new System.Drawing.Point(113, 143);
             this.delete.Name = "delete";
             this.delete.Size = new System.Drawing.Size(114, 55);
             this.delete.TabIndex = 31;
@@ -307,7 +307,7 @@ namespace Lab1
             this.ButtonC.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.ButtonC.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.ButtonC.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ButtonC.Location = new System.Drawing.Point(57, 136);
+            this.ButtonC.Location = new System.Drawing.Point(53, 143);
             this.ButtonC.Name = "ButtonC";
             this.ButtonC.Size = new System.Drawing.Size(54, 55);
             this.ButtonC.TabIndex = 29;
@@ -318,7 +318,7 @@ namespace Lab1
             // Res
             // 
             this.Res.Font = new System.Drawing.Font("OCR A Extended", 18.2F);
-            this.Res.Location = new System.Drawing.Point(57, 80);
+            this.Res.Location = new System.Drawing.Point(53, 87);
             this.Res.Name = "Res";
             this.Res.Size = new System.Drawing.Size(234, 39);
             this.Res.TabIndex = 52;
@@ -330,7 +330,7 @@ namespace Lab1
             this.button1.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(177, 380);
+            this.button1.Location = new System.Drawing.Point(173, 387);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(54, 55);
             this.button1.TabIndex = 53;
@@ -344,7 +344,7 @@ namespace Lab1
             this.Change.Cursor = System.Windows.Forms.Cursors.PanNorth;
             this.Change.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.Change.Font = new System.Drawing.Font("Snap ITC", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Change.Location = new System.Drawing.Point(21, 380);
+            this.Change.Location = new System.Drawing.Point(17, 387);
             this.Change.Name = "Change";
             this.Change.Size = new System.Drawing.Size(90, 55);
             this.Change.TabIndex = 54;
@@ -389,7 +389,6 @@ namespace Lab1
             this.Name = "Calculator";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculator";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

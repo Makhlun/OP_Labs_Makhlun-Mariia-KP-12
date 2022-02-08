@@ -13,11 +13,6 @@ namespace Lab1
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void Backing_Click(object sender, EventArgs e)
         {
             MainMenu mm = new MainMenu();
@@ -34,10 +29,10 @@ namespace Lab1
             }
             check = false;
             if (Res.Text == ",")
-                    Res.Text = "0,";
+                Res.Text = "0,";
             if (N.Text == ",")
             {
-                
+
                 if (!Res.Text.Contains(","))
                     Res.Text += N.Text;
             }
@@ -70,12 +65,9 @@ namespace Lab1
 
         private void result_Click(object sender, EventArgs e)
         {
-            
+
             switch (Operation_meaning)
             {
-                case "+/-":
-                    Res.Text = (-1*Double.Parse(Res.Text)).ToString();
-                    break;
                 case "+":
                     Res.Text = (number + Double.Parse(Res.Text)).ToString();
                     break;
@@ -97,7 +89,7 @@ namespace Lab1
         }
         private void delete_Click(object sender, EventArgs e)
         {
-            if (Res.Text.Length!=1)
+            if (Res.Text.Length != 1)
                 Res.Text = Res.Text.Remove(Res.Text.Length - 1);
             else Res.Text = "0";
         }
